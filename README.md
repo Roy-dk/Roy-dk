@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Roy-dk/Roy-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Robotics · AI · Quant · Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👋 About Me
+
+Focused on **quantitative trading systems** and **Robotics System Architecture**, with additional work in robotics and AI systems.
+
+Currently employed at Unitree, working on robot software systems, C++ middleware, AI Agent Systems, and distributed architectures.
+
+---
+
+## 🧠 Core Focus
+
+- 📈 Quantitative Trading Systems
+- ⚡ Low-Latency & High-Performance Systems
+- 🧩 Multi-Strategy Architecture Design
+- 🤖 Robotics & Embodied Intelligence
+- 🌐 Distributed Systems & Infrastructure
+- 🧠 AI / AGI & Reinforcement Learning
+
+---
+
+## ⚙️ Tech Themes
+
+```txt
+Quant Systems · Low Latency · Market Microstructure
+Distributed Systems · C++ · Performance Engineering
+Robotics · AI Infrastructure · RL
+```
