@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Focused on **quantitative trading systems** and **Robotics System Architecture**, with additional work in robotics and AI systems.
+Focused on **Quantitative Trading Systems** and **Robotics System Architecture**, with additional work in robotics and AI systems.
 
 Currently employed at Unitree, working on robot software systems, C++ middleware, AI Agent Systems, and distributed architectures.
 
